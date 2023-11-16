@@ -1,1 +1,2 @@
 apiVersion: app/v1
+meta: name
