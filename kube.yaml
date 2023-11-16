@@ -1,1 +1,4 @@
 apiVersion: app/v1
+kind: Deployment 11
+metedataa:
+  name: k3s 
